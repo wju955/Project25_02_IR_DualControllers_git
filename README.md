@@ -1,1 +1,1 @@
-# Project25_02_IR_DualControllers_git
+### This the Firmware V1 for the wireless control of the infra-red module via dual controllers.
